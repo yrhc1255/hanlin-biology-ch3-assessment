@@ -1,0 +1,3 @@
+function privateConfig_() {
+  return { spreadsheetId: "YOUR_PRIVATE_SPREADSHEET_ID", adminToken: "YOUR_PRIVATE_ADMIN_TOKEN" };
+}

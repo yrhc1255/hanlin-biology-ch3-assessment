@@ -1,0 +1,5 @@
+gas/PrivateConfig.gs
+.clasp.json
+**/.clasp.json
+.env*
+node_modules/
